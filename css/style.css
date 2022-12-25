@@ -1,0 +1,42 @@
+body {
+    background-color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1,
+.subsection {
+    font-weight: 700;
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+    font-size: 48px;
+    font-family: sans-serif;
+}
+
+.subsection {
+    font-weight: 700;
+    color: darkgreen;
+}
+
+#ingredients {
+    color: red;
+    font-style: italic;
+    background-color: black;
+}
+
+.steps {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+div img {
+    width: 1200px;
+    height: auto;
+    margin-left: 25%;
+}
+
+.main-list {
+    font-weight: 700;
+    font-size: 40px;
+}
